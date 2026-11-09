@@ -1,0 +1,4 @@
+# Danh sách thư viện cần thiết cho dự án AI Snake Game
+# Lưu ý: 'pygame-ce' (Community Edition) tương thích 100% với 'import pygame'
+# và hỗ trợ tối ưu trên tất cả các phiên bản Python hiện đại (Python 3.10 - 3.14+).
+pygame-ce>=2.5.0
